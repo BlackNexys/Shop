@@ -1,0 +1,103 @@
+body {
+	background-image: url("../Imgs/BGSkyrim.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Nunito', sans-serif;
+    width: 100%;
+    background-size: 100% 100%;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#app{
+	height: 100%;
+ 	width: 100%;
+}
+article{
+	min-height: 100%;
+}
+.logo{
+	height: 100%;
+}
+.container{
+	min-height: 100%;
+	padding: 15px 15px 15px 15px;
+
+}
+.content_container{
+	background-color: rgba(220,220,220, .9);
+	min-height: 100%;
+}
+.product_img{
+	width: 100%;
+	
+}
+.product-inner-left{
+	min-height: 320px;
+}
+.product-inner-right{
+	min-height: 175px;
+}
+.product-outer{
+	padding: 5px 5px 5px 5px;
+	min-height: 350px;
+}
+.product-inner{
+	height: 100%;
+	padding: 15px 15px 15px 15px;
+}
+.navbar{
+	margin-bottom: 0px; 
+}
+.top_pro_row{
+	height: 670px
+}
+.pro_Image{
+	display: inline-block;
+    vertical-align: middle;
+    margin-left: auto; 
+    margin-right: auto;
+    max-height: 670px
+}
+.carousel{
+	width: 100%;
+}
+.carousel-control{
+	text-shadow:0 0px 0px rgba(0,0,0,.0);
+}
+.carousel-indicators li{
+	border: 1px solid black;
+	border-radius:2px;
+}
+.carousel-indicators .active{
+	background-color: #1f1f1f;
+}
+.genre_list li{
+	font-family: 'Nunito', sans-serif;
+	padding: 5px 5px 5px 5px;
+	background-color: #1f1f1f;
+	border-radius:2px;
+	color: #f1f1f1;
+	font-size: x-small;
+}
+.buy-btn{
+	width: 100%;
+}
+.game_content{
+	font-size: medium;
+}
+.price_color{
+	color: #A8580B;
+;
+}
+.page_just{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.pro_text{
+	color: black;
+}
+.pro_small_txt{
+	font-size: x-small;
+}
